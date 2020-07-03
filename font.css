@@ -1,4 +1,4 @@
-`/* [0] */
+/* [0] */
 @font-face {
   font-family: 'Noto Sans JP';
   font-style: normal;
@@ -5757,4 +5757,4 @@
   font-weight: 900;
   src: local('Noto Sans Japanese Black'), local('NotoSansJapanese-Black'), url(https://github.com/omureon/NotoSansJapanese/blob/master/900/119.woff2) format('woff2'), url(https://github.com/omureon/NotoSansJapanese/blob/master/900/119.woff) format('woff'), url(https://github.com/omureon/NotoSansJapanese/blob/master/900/119.ttf) format('ttf'), url(https://github.com/omureon/NotoSansJapanese/blob/master/900/119.eot) format('eot');
   unicode-range: U+20, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}`
+}
